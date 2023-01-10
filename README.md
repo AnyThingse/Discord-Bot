@@ -1,3 +1,3 @@
-https://canary.discord.com/channels/333949691962195969/979791110119522384/1056690559034605608 - 
+https://canary.discord.com/channels/333949691962195969/979791110119522384/1054349426602291220
 
-Bots Variey but all of them have these commands at least or something very similar just with less commands: https://imgur.com/a/nav1aKJ https://imgur.com/a/vOuYifM https://imgur.com/a/6ye77uC https://imgur.com/a/97aCvh7
+Sort of a new repository people like to clone, the help command is mostly different from each other, though the commands are the same and always with /module <command> - so /bot help or /help info, they are very easy to recognize thanks to their /family commands.
